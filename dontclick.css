@@ -1,0 +1,14 @@
+.butt{
+  width: 50%;
+  height: 50%;
+margin-left: 55px;
+text-align: center;
+}
+:hover {
+    transition: all .1s ease;
+    box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
+}
+.two{
+  width: 50% ;
+  height:50% ;
+}
